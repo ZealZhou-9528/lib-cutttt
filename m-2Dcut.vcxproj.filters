@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="m-2Dcut.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelGenerationCUBE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CutModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelFunction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CutElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LevSetFunVal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CutEleWithFun.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unique.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ismember.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gAdd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneFunction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FindNodeOfEle2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CutModel2st.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CutElement2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LevSetFunVal2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gAdd2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneFunction2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CutEleWithFun2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FindSinglePoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddEdgePoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddSurfacePoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtsInTriV2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReSameRows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FEXMLoutput.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MianModuli.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FeCofBC_Rotation_old_C4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Boundarymatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BCcondPeriodic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionPeriodNodes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="feglqd4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fematiso.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Trans_Matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="feisos8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fejacob3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_det.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="federiv3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ComputeVolume4V2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fekine3d.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BCimposeT3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sparse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MKL_inv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BCimposePeriodic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="feeldof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_CutModel_3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_CutElement_3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_LevSetFunVal_3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_CutEleWithFun2_3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_gAdd2_3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_PlaneFunction_3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_CutModel_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_CutElement_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_LevSetFunVal_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_CutEleWithFun_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_gAdd_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_PlaneFunction_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_CutModel2st_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_CutElement2_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_LevSetFunVal2_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_CutEleWithFun2_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_gAdd2_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25D_PlaneFunction2_25D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelGenerationCUBE_dynamic_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="m_cut.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
